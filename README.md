@@ -93,5 +93,5 @@ The data used is upto 23,march 2020 futher analysis performed on it.More data ca
  Confirmed cases vs date help to analyse how it is spreading in India.<br/>
  Cured case vs date help to know the cured time required.<br/>
  India confirmed case of all states vs date gives us the insights of its growth with time.<br/>
- Hence,the above analysis can be maintain in `real time` by updating data to get the more insights</p>
+ Hence,the above analysis can be maintain in real time by updating data to get the more insights</p>
   
