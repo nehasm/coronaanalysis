@@ -61,7 +61,7 @@ The data used is upto 23,march 2020 futher analysis performed on it.More data ca
     - X-axis refer to states in incresing order
     - Y-axis refer to confirmed case count.
 - **State wise cured case comparison to visualize all the states of India?**
-    - <a href="https://ibb.co/M8gDGMr"><img width='350' height='300' src="https://i.ibb.co/CJw5Mhg/statewisedeathcasehist.png" alt="statewisedeathcasehist" border="0"></a><br /><a target='_blank' href='https://carinsuranceguru.org/how-to-insure-a-car-with-a-salvage-title-in-texas'>how to switch title of car in texas</a><br />
+    - <a href="https://ibb.co/M8gDGMr"><img width='350' height='300' src="https://i.ibb.co/CJw5Mhg/statewisedeathcasehist.png" alt="statewisedeathcasehist" border="0"></a>
     - X-axis refer to states in incresing order
     - Y-axis refer to cured case count.
 - **State wise death case comparison to visualize all the states of India?**
