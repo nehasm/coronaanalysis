@@ -88,7 +88,7 @@ The data used is upto 23,march 2020 futher analysis performed on it.More data ca
  <p>This is all analysis which can be performed on the available data.<br/>
  The above analysis is not just the few graphs it gives the complete information of count with respect to states.<br/>
  The severity in state can be found with respect to other states.<br/>
- The state dealing the best by having maximum cured cases.<br/>
+ **The state dealing the best by** having maximum cured cases.<br/>
  State suffering the most by having the highest death case count.<br/>
  Confirmed cases vs date help to analyse how it is spreading in India.<br/>
  Cured case vs date help to know the cured time required.<br/>
