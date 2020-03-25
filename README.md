@@ -86,10 +86,10 @@ The data used here is upto 23rd march 2020 futher analysis performed on this dat
  All these analysis can be performed on available data.<br/>
  The above analysis is not just the few graphs it gives the complete information of count with respect to states.<br/>
  The severity in the state can be found with respect to other states.<br/>
- The state having maximum cured cases refer as best dealing state from corona virus<br/>
- State suffering the most by having the highest death case count.<br/>
+ The state having maximum cured cases refer as best dealing state from corona virus.<br/>
+ State suffering the most by having the highest death cases count.<br/>
  Confirmed cases vs date help to analyse how it is spreading in India.<br/>
- Cured case vs date help to know the cured time required.<br/>
- India confirmed case of all states vs date gives us the insights of its growth with time.<br/>
- **Hence,the above analysis can be maintain in real time by updating data to get the more insights.**
+ Cured case vs date help to know the cure time required.<br/>
+ Confirmed cases in India of all state vs date gives us the insights of its growth with time.<br/>
+ **Hence,the above analysis can be maintained in real time by updating data to get the more insights.**
   
