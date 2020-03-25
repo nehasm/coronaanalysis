@@ -48,7 +48,7 @@ The data used here is upto 23,march 2020 futher analysis performed on it.More da
 - **Total Death case in India on map to visualize state wise?**
     - <a href="https://imgbb.com/"><img width='350' height='300' src="https://i.ibb.co/X7gFY9D/deathmap.png" alt="deathmap" border="0"></a>
     - pop up will display the total state wise count
-- **Which state has maximum active confirmed case till last date?
+- **Which state has maximum active confirmed case till last date?**
     - Kerala
 - **Number of confirmed case in highly infected state?**
     - 94
