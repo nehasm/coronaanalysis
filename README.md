@@ -1,20 +1,20 @@
 # `coronaanalysis`
-The first case of the 2019–20 coronavirus pandemic in India was reported on 30 January 2020, originating from China.
+The first case of the 2019–20 coronavirus pandemic in India was reported on January 30,2020, originating from China.
 The country reported its first three cases in Kerala, all of whom were students who had returned from Wuhan, China.
 The transmission escalated in the month of March, after several cases were reported all over the country, most of which were linked to people with a travel history to affected countries.
 
-On 10 March, the total cases reached 50.
-On 12 March, a 76-year-old man who had returned from Saudi Arabia became the first victim of the virus in the country. 
-The total cases reached 100 on 15 March, 250 on 20 March and 500 on 24 March.The death toll reached 10 on 24 March.
+On 10th March, the total cases reached 50.
+On 12th March, a 76-year-old man who had returned from Saudi Arabia became the first victim of the virus in the country. 
+The total cases reached 100 on 15th March, 250 on 20th March and 500 on 24th March.The death toll reached 10 on 24th March.
 The infection rate of COVID-19 in India is reported to be 1.7, which is remarkably lower than in the worst affected countries.
-This disease does not have any medicine to cure,maintaing social distance is the only solution left.
-Government of India announce lockdown in all the states from 25,march 2020 for 21 days.For more information [see here](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India).
+Currently,there is no vaccination or medicine available for this disease so maintaing social distance is the only solution left.
+To limit the spread of virus government of India announced lockdown in all states and union territories from 25th march 2020 for 21 days.For more information [see here](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India).
 
-From available data,we can visualize how the virus infected population increase in last 55 days.
-This analysis help us to **compare the count with respect to time and place**.This analytics help in visualizing **current situation** on map which help in **tracking corona cases all over India in real time.**
-The data used in the analysis starts from first confirmed case record date i.e.,*30,jan 2020 to 23,march 2020*.More data can be added into it to keep it updated.The data used is available in csv format and also you can refer [link1](https://www.kaggle.com/sudalairajkumar/covid19-in-india), [link2](https://www.kaggle.com/imdevskp/covid19-corona-virus-india-dataset) and [link3](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
+From available data,we can visualize how the virus infected population increased in last 55 days.
+This analysis will help us to **compare the count with respect to time and place**.This analysis helps us in visualizing **current situation** on map which will help in **tracking corona virus affected cases all over India in real time.**
+The data used in the analysis starts from first confirmed case record date i.e.,*30 Jan 2020 to 23 March 2020*.To keep analysis up to date and accurate more data can be added into it.The data used in repo is represented in csv format(you can also refer [link1](https://www.kaggle.com/sudalairajkumar/covid19-in-india), [link2](https://www.kaggle.com/imdevskp/covid19-corona-virus-india-dataset) and [link3](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)).
 
-Let us get into analytics to get more insights from the available data.
+Let us get into analysis to get more insights from available data.
 ## `Data Description`
 The data used for analysis has 9 columns:
 * Sno--The serial number of record.                   
