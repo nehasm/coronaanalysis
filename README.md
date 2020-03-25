@@ -8,11 +8,11 @@ On 12 March, a 76-year-old man who had returned from Saudi Arabia became the fir
 The total cases reached 100 on 15 March, 250 on 20 March and 500 on 24 March.The death toll reached 10 on 24 March.
 The infection rate of COVID-19 in India is reported to be 1.7, which is remarkably lower than in the worst affected countries.
 This disease does not have any medicine to cure,maintaing social distance is the only solution left.
-Government of India lockdown all the states from 25,march 2020 for 21 days.For more information [see here](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India).
+Government of India announce lockdown in all the states from 25,march 2020 for 21 days.For more information [see here](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India).
 
-From the available data,we can visualize how the virus infected population increase in india from last 55 days.
-This analysis help us to compare the count with respect to time and place.This analytics help in visualizing current situation on map which help in tracking corona in India in real time.
-The data used in the analysis is from 30,jan 2020 to 23,march 2020 more data can be add into it to keep it update.
+From the available data,we can visualize how the virus infected population increase in last 55 days.
+This analysis help us to compare the count with respect to time and place.This analytics help in visualizing current situation on map which help in tracking corona case all over India in real time.
+The data used in the analysis is from first confirmed case record date that is 30,jan 2020 to 23,march 2020.More data can be add to keep it update.
 
 Let's get into analytics to get more insights from the available data.
 ## `Data Description`
