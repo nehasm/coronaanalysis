@@ -12,37 +12,37 @@ Government of India announce lockdown in all the states from 25,march 2020 for 2
 
 From the available data,we can visualize how the virus infected population increase in last 55 days.
 This analysis help us to compare the count with respect to time and place.This analytics help in visualizing current situation on map which help in tracking corona case all over India in real time.
-The data used in the analysis is from first confirmed case record date that is 30,jan 2020 to 23,march 2020.More data can be add to keep it update.
+The data used in the analysis starts from first confirmed case record date i.e.,30,jan 2020 to 23,march 2020.More data can be added to keep it update.
 
-Let's get into analytics to get more insights from the available data.
+Let us get into analytics to get more insights from the available data.
 ## `Data Description`
 The data used for analysis has 9 columns:
-* Sno--The serial number of record                   
-* Date--Date of record                       
-* State/UnionTerritory--State of record        
-* ConfirmedIndianNational--People count infected from virus and belongs to indian national    
-* ConfirmedForeignNational--People count infected from virus and belongs to foreign national
-* Cured--People count cured fron virus                       
-* Deaths--People count died due to corona virus                      
-* Latitude--Latitude of state                     
-* Longitude--Longitude of state    
+* Sno--The serial number of record.                   
+* Date--Date of record.                       
+* State/UnionTerritory--State of record.        
+* ConfirmedIndianNational--People count infected from virus and belongs to indian national.    
+* ConfirmedForeignNational--People count infected from virus and belongs to foreign national.
+* Cured--People count cured from virus.                       
+* Deaths--People count died due to corona virus.                      
+* Latitude--Latitude of state.                     
+* Longitude--Longitude of state.    
 
 #### Note:
-The data used is upto 23,march 2020 futher analysis performed on it.More data can be easily added to make it update.***last date in analysis refer last record in data that is 23,march 2020 however the reocord change in future.***
+The data used here is upto 23,march 2020 futher analysis performed on it.More data can be easily added to keep it update.***last date in analysis refer last record in data that is 23,march 2020 however the record change in future.***
 
 ## `Analysis`
-- **Total confirmed cases in india of indian national till last date?**
+- **Total confirmed case in india of indian national till last date?**
     - 451
-- **Total confirmed cases in india of foreign national till last date?**
+- **Total confirmed case in india of foreign national till last date?**
     - 41
 - **Total confirmed cases in india till last date?**
     - 492
-- **Number of State have infected due to corona virus?**
+- **Number of States infected due to corona virus?**
     - 23
-- **Total confirmed cases in India on map to visualize state wise?**
+- **Total Confirmed case in India on map to visualize state wise?**
     - <a href="https://ibb.co/s9Km13P"><img width='350' height='300' src="https://i.ibb.co/d4PWpKc/confirmmap.png" alt="confirmmap" border="0"></a>
     - pop up shows the state name and total confirmed cases count
-- **Total Cured cases in India on map to visualize state wise?**
+- **Total Cured case in India on map to visualize state wise?**
     - <a href="https://ibb.co/YTBwCxL"><img width='350' height='300' src="https://i.ibb.co/93HSD7r/cured-map.png" alt="cured-map" border="0"></a>
     - pop up will display the total state wise count 
 - **Total Death case in India on map to visualize state wise?**
@@ -66,12 +66,12 @@ The data used is upto 23,march 2020 futher analysis performed on it.More data ca
     - Y-axis refer to cured case count.
 - **State wise death case comparison to visualize all the states of India?**
     - <a href="https://ibb.co/3kVqw7J"><img width='350' height='300' src="https://i.ibb.co/yVK1DX3/statewisecuredhist.png" alt="statewisecuredhist" border="0"></a>
-    - X-axis refer to states in incresing order
+    - X-axis refer to states in incresing order.
     - Y-axis refer to cured case count.
  - **Growth of confirmed case in India with time?**
      - <a href="https://ibb.co/HNsGkNV"><img width='350' height='300' src="https://i.ibb.co/B4xTS4t/confirmline.png" alt="confirmline" border="0"></a>
-     - X-axis show the date from first case date
-     - Y-axis refer to count of confirm case
+     - X-axis show the date from first case date.
+     - Y-axis refer to count of confirm case.
  - **Cured case in India with time?**
      - <a href="https://ibb.co/MNYx2Dc"><img width='350' height='300' src="https://i.ibb.co/j4cP6vy/curedline.png" alt="curedline" border="0"></a>
      - X-axis show the date from first case date.
@@ -80,15 +80,15 @@ The data used is upto 23,march 2020 futher analysis performed on it.More data ca
      - <a href="https://ibb.co/ZYxqgTM"><img width='350' height='300' src="https://i.ibb.co/txDV2CJ/deathline.png" alt="deathline" border="0"></a>
      - X-axis show the date from first case date.
      - Y-axis refer to count of death case.
- - **Growth of infected case in one state with respect to time i.e.,Maharashtra?    
+ - **Growth of infected case in one state with respect to time such that the journey of corona virus in Maharashtra?    
      - <a href="https://ibb.co/dkY7LYN"><img width='350' height='300' src="https://i.ibb.co/j3XHWXC/stateconfirmline.png" alt="stateconfirmline" border="0"></a>
- - **Compare the growth of infected case in all the states of india with respect to time?**
+ - **Compare the growth of infected case in all the states of India with respect to time?**
      - <a href="https://ibb.co/P6FwBYq"><img width='450' height='400' src="https://i.ibb.co/sVbyLP8/allhist.png" alt="allhist" border="0"></a>
  ## `Conclusion`
  <p>This is all analysis which can be performed on the available data.<br/>
  The above analysis is not just the few graphs it gives the complete information of count with respect to states.<br/>
  The severity in state can be found with respect to other states.<br/>
- The state dealing the best by having maximum cured cases.<br/>
+ State dealing the best by having maximum cured cases.<br/>
  State suffering the most by having the highest death case count.<br/>
  Confirmed cases vs date help to analyse how it is spreading in India.<br/>
  Cured case vs date help to know the cured time required.<br/>
