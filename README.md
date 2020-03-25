@@ -11,7 +11,7 @@ This disease does not have any medicine to cure,maintaing social distance is the
 Government of India announce lockdown in all the states from 25,march 2020 for 21 days.For more information [see here](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India).
 
 From the available data,we can visualize how the virus infected population increase in last 55 days.
-This analysis help us to compare the count with respect to time and place.This analytics help in visualizing current situation on map which help in tracking corona case all over India in real time.
+This analysis help us to **compare the count with respect to time** and place.This analytics help in visualizing **current situation** on map which help in **tracking corona case all over India in real time.**
 The data used in the analysis starts from first confirmed case record date i.e.,30,jan 2020 to 23,march 2020.More data can be added to keep it update.
 
 Let us get into analytics to get more insights from the available data.
@@ -27,7 +27,7 @@ The data used for analysis has 9 columns:
 * Latitude--Latitude of state.                     
 * Longitude--Longitude of state.    
 
-#### Note:
+#### `Note`:
 The data used here is upto 23,march 2020 futher analysis performed on it.More data can be easily added to keep it update.***last date in analysis refer last record in data that is 23,march 2020 however the record change in future.***
 
 ## `Analysis`
@@ -85,7 +85,7 @@ The data used here is upto 23,march 2020 futher analysis performed on it.More da
  - **Compare the growth of infected case in all the states of India with respect to time?**
      - <a href="https://ibb.co/P6FwBYq"><img width='450' height='400' src="https://i.ibb.co/sVbyLP8/allhist.png" alt="allhist" border="0"></a>
  ## `Conclusion`
- <p>This is all analysis which can be performed on the available data.<br/>
+This is all analysis which can be performed on the available data.<br/>
  The above analysis is not just the few graphs it gives the complete information of count with respect to states.<br/>
  The severity in state can be found with respect to other states.<br/>
  State dealing the best by having maximum cured cases.<br/>
@@ -93,5 +93,5 @@ The data used here is upto 23,march 2020 futher analysis performed on it.More da
  Confirmed cases vs date help to analyse how it is spreading in India.<br/>
  Cured case vs date help to know the cured time required.<br/>
  India confirmed case of all states vs date gives us the insights of its growth with time.<br/>
- Hence,the above analysis can be maintain in real time by updating data to get the more insights</p>
+ **Hence,the above analysis can be maintain in real time by updating data to get the more insights.**
   
