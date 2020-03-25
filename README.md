@@ -50,45 +50,43 @@ The data used here is upto 23rd march 2020 futher analysis performed on this dat
     - pop up will display the total state wise count.
 - **Which state has maximum active confirmed cases till last date?**
     - Kerala
-- **Number of confirmed case in highly infected state?**
+- **Number of confirmed cases in highly infected state?**
     - 94
-- **Which state has minimum infected case till last date?**
+- **Which state has minimum active confirmed cases till last date?**
     - Chhattisgarh
-- **Number of confirmed case in least infected state?**
+- **Number of confirmed cases in least infected state?**
     - 1
-- **State wise confirmed case comparison to visualize all the states of India?**
+- **State wise comparison of total confirmed cases all over India**
     - <a href="https://ibb.co/QNsS57B"><img width='350' height='300' src="https://i.ibb.co/DC3cqPX/statewiseconfirmcasehist.png" alt="statewiseconfirmcasehist" border="0"></a>
-    - X-axis refer to states in incresing order
-    - Y-axis refer to confirmed case count.
-- **State wise cured case comparison to visualize all the states of India?**
+    - X-axis refer to states in increasing order
+    - Y-axis refer to count of confirmed cases.
+- **State wise comparison of total cured cases all over India**
     - <a href="https://ibb.co/M8gDGMr"><img width='350' height='300' src="https://i.ibb.co/CJw5Mhg/statewisedeathcasehist.png" alt="statewisedeathcasehist" border="0"></a>
-    - X-axis refer to states in incresing order
-    - Y-axis refer to cured case count.
-- **State wise death case comparison to visualize all the states of India?**
+    - X-axis refer to states in increasing order
+    - Y-axis refer to count cured cases.
+- **State wise comparison of total death cases all over India**
     - <a href="https://ibb.co/3kVqw7J"><img width='350' height='300' src="https://i.ibb.co/yVK1DX3/statewisecuredhist.png" alt="statewisecuredhist" border="0"></a>
-    - X-axis refer to states in incresing order.
-    - Y-axis refer to cured case count.
- - **Growth of confirmed case in India with time?**
+    - X-axis refer to states in increasing order.
+    - Y-axis refer to count cured cases.
+ - **Growth of number of confirmed cases in India with respect to time**
      - <a href="https://ibb.co/HNsGkNV"><img width='350' height='300' src="https://i.ibb.co/B4xTS4t/confirmline.png" alt="confirmline" border="0"></a>
-     - X-axis show the date from first case date.
-     - Y-axis refer to count of confirm case.
- - **Cured case in India with time?**
+     
+ - **Cured cases in India with respect to time**
      - <a href="https://ibb.co/MNYx2Dc"><img width='350' height='300' src="https://i.ibb.co/j4cP6vy/curedline.png" alt="curedline" border="0"></a>
-     - X-axis show the date from first case date.
-     - Y-axis refer to count of cured case.
- - **Death case in India with time?**
+
+ - **Death cases in India with respect to time?**
      - <a href="https://ibb.co/ZYxqgTM"><img width='350' height='300' src="https://i.ibb.co/txDV2CJ/deathline.png" alt="deathline" border="0"></a>
-     - X-axis show the date from first case date.
-     - Y-axis refer to count of death case.
- - **Growth of infected case in one state with respect to time such that the journey of corona virus in Maharashtra?**    
+
+ - **Growth of confirmed cases in one state with respect to time(e.g Maharashtra)**    
      - <a href="https://ibb.co/dkY7LYN"><img width='350' height='300' src="https://i.ibb.co/j3XHWXC/stateconfirmline.png" alt="stateconfirmline" border="0"></a>
- - **Compare the growth of infected case in all the states of India with respect to time?**
+     
+ - **Comparison of growth of confirmed cases in all the states of India with respect to time**
      - <a href="https://ibb.co/P6FwBYq"><img width='450' height='400' src="https://i.ibb.co/sVbyLP8/allhist.png" alt="allhist" border="0"></a>
  ## `Conclusion`
-This is all analysis which can be performed on the available data.<br/>
+ All these analysis can be performed on available data.<br/>
  The above analysis is not just the few graphs it gives the complete information of count with respect to states.<br/>
- The severity in state can be found with respect to other states.<br/>
- State dealing the best by having maximum cured cases.<br/>
+ The severity in the state can be found with respect to other states.<br/>
+ The state having maximum cured cases refer as best dealing state from corona virus<br/>
  State suffering the most by having the highest death case count.<br/>
  Confirmed cases vs date help to analyse how it is spreading in India.<br/>
  Cured case vs date help to know the cured time required.<br/>
