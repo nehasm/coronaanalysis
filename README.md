@@ -17,15 +17,15 @@ The data used in the analysis starts from first confirmed case record date i.e.,
 Let us get into analysis to get more insights from available data.
 ## `Data Description`
 The data used for analysis has 9 columns:
-* Sno--The serial number of record.                   
-* Date--Date of record.                       
-* State/UnionTerritory--State of record.        
-* ConfirmedIndianNational--People count infected from virus and belongs to indian national.    
-* ConfirmedForeignNational--People count infected from virus and belongs to foreign national.
-* Cured--People count cured from virus.                       
-* Deaths--People count died due to corona virus.                      
-* Latitude--Latitude of state.                     
-* Longitude--Longitude of state.    
+* `Sno`--The serial number of record.                   
+* `Date`--Date of record.                       
+* `State/UnionTerritory`--State of record.        
+* `ConfirmedIndianNational`--People count infected from virus and belongs to indian national.    
+* `ConfirmedForeignNational`--People count infected from virus and belongs to foreign national.
+* `Cured`--People count cured from virus.                       
+* `Deaths`--People count died due to corona virus.                      
+* `Latitude`--Latitude of state.                     
+* `Longitude`--Longitude of state.    
 
 #### `Note`:
 The data used here is upto 23rd march 2020 futher analysis performed on this data.More data can be easily added to keep it up to date.***last date in analysis refer last record in data that is 23rd march 2020, however the record will change in future.***
@@ -63,11 +63,11 @@ The data used here is upto 23rd march 2020 futher analysis performed on this dat
 - **State wise comparison of total cured cases all over India**
     - <a href="https://ibb.co/M8gDGMr"><img width='350' height='300' src="https://i.ibb.co/CJw5Mhg/statewisedeathcasehist.png" alt="statewisedeathcasehist" border="0"></a>
     - X-axis refer to states in increasing order
-    - Y-axis refer to count cured cases.
+    - Y-axis refer to count of cured cases.
 - **State wise comparison of total death cases all over India**
     - <a href="https://ibb.co/3kVqw7J"><img width='350' height='300' src="https://i.ibb.co/yVK1DX3/statewisecuredhist.png" alt="statewisecuredhist" border="0"></a>
     - X-axis refer to states in increasing order.
-    - Y-axis refer to count cured cases.
+    - Y-axis refer to count of cured cases.
  - **Growth of number of confirmed cases in India with respect to time**
      - <a href="https://ibb.co/HNsGkNV"><img width='350' height='300' src="https://i.ibb.co/B4xTS4t/confirmline.png" alt="confirmline" border="0"></a>
      
