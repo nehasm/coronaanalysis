@@ -28,27 +28,27 @@ The data used for analysis has 9 columns:
 * Longitude--Longitude of state.    
 
 #### `Note`:
-The data used here is upto 23,march 2020 futher analysis performed on this data.More data can be easily added to keep it update.***last date in analysis refer last record in data that is 23,march 2020 however the record change in future.***
+The data used here is upto 23rd march 2020 futher analysis performed on this data.More data can be easily added to keep it up to date.***last date in analysis refer last record in data that is 23rd march 2020, however the record will change in future.***
 
 ## `Analysis`
-- **Total confirmed case in india of indian national till last date?**
+- **Total confirmed cases in india of indian national till last date?**
     - 451
-- **Total confirmed case in india of foreign national till last date?**
+- **Total confirmed cases in india of foreign national till last date?**
     - 41
 - **Total confirmed cases in india till last date?**
     - 492
 - **Number of States infected due to corona virus?**
     - 23
-- **Total Confirmed case in India on map to visualize state wise?**
+- **State wise representation of total confirmed cases in India on map:**
     - <a href="https://ibb.co/s9Km13P"><img width='350' height='300' src="https://i.ibb.co/d4PWpKc/confirmmap.png" alt="confirmmap" border="0"></a>
-    - pop up shows the state name and total confirmed cases count
-- **Total Cured case in India on map to visualize state wise?**
+    - pop up shows the state name and count of total confirmed cases.
+- **State wise representation of total cured cases in India on map:**
     - <a href="https://ibb.co/YTBwCxL"><img width='350' height='300' src="https://i.ibb.co/93HSD7r/cured-map.png" alt="cured-map" border="0"></a>
-    - pop up will display the total state wise count 
-- **Total Death case in India on map to visualize state wise?**
+    - pop up will display the total state wise count. 
+- **State wise representation of total death cases in India on map:**
     - <a href="https://imgbb.com/"><img width='350' height='300' src="https://i.ibb.co/X7gFY9D/deathmap.png" alt="deathmap" border="0"></a>
-    - pop up will display the total state wise count
-- **Which state has maximum active confirmed case till last date?**
+    - pop up will display the total state wise count.
+- **Which state has maximum active confirmed cases till last date?**
     - Kerala
 - **Number of confirmed case in highly infected state?**
     - 94
