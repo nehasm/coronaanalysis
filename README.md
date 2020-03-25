@@ -11,8 +11,8 @@ This disease does not have any medicine to cure,maintaing social distance is the
 Government of India announce lockdown in all the states from 25,march 2020 for 21 days.For more information [see here](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India).
 
 From the available data,we can visualize how the virus infected population increase in last 55 days.
-This analysis help us to **compare the count with respect to time** and place.This analytics help in visualizing **current situation** on map which help in **tracking corona case all over India in real time.**
-The data used in the analysis starts from first confirmed case record date i.e.,30,jan 2020 to 23,march 2020.More data can be added to keep it update.
+This analysis help us to **compare the count with respect to time and place**.This analytics help in visualizing **current situation** on map which help in **tracking corona case all over India in real time.**
+The data used in the analysis starts from first confirmed case record date i.e.,*30,jan 2020 to 23,march 2020*.More data can be added to keep it update.The data used is available in csv format in repo and also you can refer [link1](https://www.kaggle.com/sudalairajkumar/covid19-in-india), [link2](https://www.kaggle.com/imdevskp/covid19-corona-virus-india-dataset) and [link3](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
 
 Let us get into analytics to get more insights from the available data.
 ## `Data Description`
