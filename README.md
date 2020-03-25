@@ -80,7 +80,7 @@ The data used here is upto 23,march 2020 futher analysis performed on it.More da
      - <a href="https://ibb.co/ZYxqgTM"><img width='350' height='300' src="https://i.ibb.co/txDV2CJ/deathline.png" alt="deathline" border="0"></a>
      - X-axis show the date from first case date.
      - Y-axis refer to count of death case.
- - **Growth of infected case in one state with respect to time such that the journey of corona virus in Maharashtra?    
+ - **Growth of infected case in one state with respect to time such that the journey of corona virus in Maharashtra?**    
      - <a href="https://ibb.co/dkY7LYN"><img width='350' height='300' src="https://i.ibb.co/j3XHWXC/stateconfirmline.png" alt="stateconfirmline" border="0"></a>
  - **Compare the growth of infected case in all the states of India with respect to time?**
      - <a href="https://ibb.co/P6FwBYq"><img width='450' height='400' src="https://i.ibb.co/sVbyLP8/allhist.png" alt="allhist" border="0"></a>
