@@ -28,7 +28,7 @@ The data used for analysis has 9 columns:
 * Longitude--Longitude of state.    
 
 #### `Note`:
-The data used here is upto 23,march 2020 futher analysis performed on it.More data can be easily added to keep it update.***last date in analysis refer last record in data that is 23,march 2020 however the record change in future.***
+The data used here is upto 23,march 2020 futher analysis performed on this data.More data can be easily added to keep it update.***last date in analysis refer last record in data that is 23,march 2020 however the record change in future.***
 
 ## `Analysis`
 - **Total confirmed case in india of indian national till last date?**
